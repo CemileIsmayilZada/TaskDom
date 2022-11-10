@@ -1,0 +1,5 @@
+table,td,th{
+    background-color:indianred; 
+    border: 2px solid wheat;
+     border-collapse: collapse;  
+}
